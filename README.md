@@ -14,7 +14,8 @@ ________________________________________
 •	Backend: C# (.NET 8, ASP.NET Core Web API)
 •	Database: SQL Server
 •	Authentication: JWT (JSON Web Token)
-•	ORM: Entity Framework Core________________________________________
+•	ORM: Entity Framework Core
+________________________________________
 📂 Project Structure
 /music-booking-api
 │── Controllers/        # API Controllers
@@ -57,7 +58,6 @@ ________________________________________
 Prerequisites
 •	.NET 8 SDK
 •	SQL Server
-•	Postman (for API testing)
 1️⃣ Clone Repository
 https://github.com/Ennybit/MusicBookingApp.git
 cd music-booking-api
