@@ -59,7 +59,7 @@ Prerequisites
 •	SQL Server
 •	Postman (for API testing)
 1️⃣ Clone Repository
-git clone https://github.com/your-username/music-booking-api.git
+https://github.com/Ennybit/MusicBookingApp.git
 cd music-booking-api
 2️⃣ Configure Database Connection
 Edit appsettings.json:
